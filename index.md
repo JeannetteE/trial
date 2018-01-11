@@ -1,3 +1,5 @@
+Link to [readme.md](READme.md)
+
 ## I am happy to have been invited to Uppsala
 __Fun and games__ with Data
 
